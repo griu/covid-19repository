@@ -1,7 +1,7 @@
 # covid-19repository
-Resoruces about covid-19 global pandemia
+Covid-19 World Pandemic Resources
 
-Data set:
+Datasets:
 
 - [Most cited open COVID-19 datasets](https://github.com/CSSEGISandData/COVID-19) is provided by Johns Hopkins University (JHU).
  
